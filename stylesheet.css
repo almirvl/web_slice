@@ -450,7 +450,7 @@ MOBILE up to 600px
         box-sizing: border-box;
     }
     body, html{
-        padding: 15px;
+        padding: 10px;
         margin: 0;
     }
     .content{
