@@ -822,8 +822,9 @@ MOBILE up to 600px
         margin-left: -160px;
         display: flex;
         font-size: 12px;
-        width: 75px;
-        height: 40px;
+        width: 80px;
+        height: 45px;
+        padding-top: 13px;
     }
 
 }
