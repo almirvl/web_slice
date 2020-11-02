@@ -103,7 +103,7 @@ body{
 
     grid-area: right_wrapper;
     margin-top: 63px;
-    max-width: 900px;
+    min-width: 800px;
 
 }
 
