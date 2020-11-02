@@ -694,7 +694,8 @@ MOBILE up to 600px
     }
     .paragraph { 
         grid-area: paragraph;
-        width: 375px; 
+        width: 320px; 
+        font-size: 15px; 
     }
     .logo1 {
         display: grid;
