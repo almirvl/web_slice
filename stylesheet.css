@@ -600,8 +600,7 @@ MOBILE up to 600px
         grid-area: img2;
         width: 100px;
         height: 140px;
-        background-color: #525FFB;
-        color: #FFFFFF;
+        background-color: #E9F0FF;
         text-align: center;
     } 
     .img2 img{
@@ -621,8 +620,7 @@ MOBILE up to 600px
         grid-area: img3;
         width: 100px;
         height: 120px;
-        background-color: #525FFB;
-        color: #FFFFFF;
+        background-color: #FFE7AA;
         text-align: center;
     } 
     .img3 img{
