@@ -470,7 +470,7 @@ MOBILE up to 600px
         align-content: flex-start;
     }
     .logo{
-        font-size: 12px;
+        font-size: 30px;
         display: flex;
         flex-grow: 0.5;
         padding: 0;
@@ -479,9 +479,9 @@ MOBILE up to 600px
     .first_link{
         display: flex;
         width: 85px;
-        height: 34px;
+        height: 44px;
         font-size: 10px;
-        padding-top: 10px;
+        padding-top: 14px;
 
     }
 
