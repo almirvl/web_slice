@@ -470,7 +470,7 @@ MOBILE up to 600px
         align-content: flex-start;
     }
     .logo{
-        font-size: 30px;
+        font-size: 20px;
         display: flex;
         flex-grow: 0.5;
         padding: 0;
